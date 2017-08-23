@@ -1,0 +1,478 @@
+
+
+
+body {
+  font-size: 14px;
+  line-height: 24px;
+  background: #ffffff;
+  font-family: "Lato", Arial, sans-serif;
+}
+
+.ui-widget.ui-menu {
+    font-family: "Lato", Arial, sans-serif;
+}
+
+
+body,
+p {
+  color: #000000;
+}
+
+.tabs .nav-tabs .nav-link:hover,
+.tabs .nav-tabs .nav-link.active,
+.anthemeblocks-homeslider-desc span {
+  color: #000000 !important;
+}
+
+p {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+
+.h1,
+h1 {
+  font-size: 36px;
+}
+.h2,
+h2 {
+  font-size: 20px;
+}
+.h3,
+.h4,
+h3,
+h4 {
+  font-size: 22px;
+}
+.h5,
+h5 {
+  font-size: 16px;
+}
+.h6,
+h6 {
+  font-size: 16px;
+}
+
+.block-contact .block-contact-title, .linklist .blockcms-title a, #block_myaccount_infos .myaccount-title a,
+.h1,
+.h2,
+.h3 {
+  color: #000000;
+}
+
+
+
+#header .header-nav .cart-preview.active a ,
+.dropdown .expand-more,
+a,
+.pagination .current a {
+  color: #000000;
+}
+
+#header .header-nav .blockcart.active a:hover,
+.dropdown:hover .expand-more,
+.page-my-account #content .links a:hover i,
+.page-my-account #content .links a:hover,
+a:focus,
+a:hover,
+.btn-link:focus,
+.btn-link:hover,
+.page-link:focus,
+.page-link:hover,
+a.text-primary:focus,
+a.text-primary:hover {
+  color: #acaaa6;
+}
+
+a.bg-primary:focus,
+a.bg-primary:hover {
+  background-color: #acaaa6!important
+}
+.btn-primary.focus,
+.btn-primary:focus,
+.btn-primary:hover {
+    background-color: #acaaa6;
+}
+.btn-primary.active,
+.btn-primary:active,
+.open>.btn-primary.dropdown-toggle {
+    background-color: #acaaa6;
+}
+.tag-primary[href]:focus,
+.tag-primary[href]:hover {
+    background-color: #acaaa6
+}
+
+
+.anthemeblocks-homeslider .owl-dots .owl-dot.active span,
+.anthemeblocks-homeslider .owl-dots .owl-dot:hover span {
+  background: #000000 !important;
+}
+
+#an_brandslider-block .owl-prev:hover, #an_brandslider-block .owl-next:hover {
+  color: #000000 !important;
+}
+
+
+.form-control:focus,
+.input-group.focus {
+    outline: .1875rem solid #000000;
+}
+
+.bootstrap-touchspin .group-span-filestyle .btn-touchspin,
+.group-span-filestyle .bootstrap-touchspin .btn-touchspin,
+.group-span-filestyle .btn-default {
+  background:  #000000;
+}
+
+.custom-radio input[type=radio]:checked+span { 
+  background-color: #000000;
+}
+
+.search-widget form input[type=text]:focus {
+  outline: 3px solid #000000;
+}
+
+body#checkout section.checkout-step .address-item.selected {
+  border: 3px solid #000000;
+}
+
+.anthemeblocks-homeslider .owl-prev i, .anthemeblocks-homeslider .owl-next i
+{
+color: #000000;
+}
+
+#products .all-product-link:hover, .featured-products .all-product-link:hover, .product-accessories .all-product-link:hover,
+#two-banners .two_block .two_block_content a:hover,
+#blockcart-modal .modal-header,
+.pagination a.nofollow1:hover,
+.pagination .current a,
+#products .product-miniature .discount-percentage,
+#products .product-miniature .on-sale,
+#products .product-miniature .online-only,
+#products .product-miniature .product-flags .new,
+.featured-products .product-miniature .discount-percentage,
+.featured-products .product-miniature .on-sale,
+.featured-products .product-miniature .online-only,
+.featured-products .product-miniature .product-flags .new,
+.product-accessories .product-miniature .discount-percentage,
+.product-accessories .product-miniature .on-sale,
+.product-accessories .product-miniature .online-only,
+.product-accessories .product-miniature .product-flags .new,
+.product-miniature .product-miniature .discount-percentage,
+.product-miniature .product-miniature .on-sale,
+.product-miniature .product-miniature .online-only,
+.product-miniature .product-miniature .product-flags .new {
+  background: #000000;
+}
+.products-sort-order .select-list:hover {
+  background: #000000;
+}
+
+.btn-primary.focus,
+.btn-primary:focus,
+.btn-primary:hover {
+background: #000000 !important;
+}
+
+#products .all-product-link,
+.featured-products .all-product-link,
+.product-accessories .all-product-link,
+.product-miniature .all-product-link,
+#two-banners .two_block .two_block_content a,
+.btn-primary {
+border: 2px solid #000000 !important;
+}
+
+#products .all-product-link,
+.featured-products .all-product-link,
+.product-accessories .all-product-link,
+.product-miniature .all-product-link,
+#two-banners .two_block .two_block_content a,
+.anthemeblocks-homeslider-desc .btn.btn-primary,
+#product-availability .product-available,
+.scroll-box-arrows .left,
+.scroll-box-arrows .right,
+.social-sharing li a:hover,
+.page-my-account #content .links a i {
+  color: #000000;
+}
+#product-modal .modal-content .modal-body .product-images img:hover {
+  border: 3px solid #2fb5d2;
+}
+li.product-flag {
+  background:  #000000;
+}
+
+
+.dropdown-item:focus,
+.search-widget form input[type=text]:focus+button .search,
+.search-widget form button[type=submit] .search:hover,
+#products .highlighted-informations .quick-view:hover,
+.featured-products .highlighted-informations .quick-view:hover,
+.product-accessories .highlighted-informations .quick-view:hover,
+.product-miniature .highlighted-informations .quick-view:hover,
+.block-categories .collapse-icons .add:hover,
+.block-categories .collapse-icons .remove:hover,
+.block-categories .arrows .arrow-down:hover,
+.block-categories .arrows .arrow-right:hover,
+.cart-grid-body a.label:hover
+.product-price,
+#blockcart-modal .product-name {
+  color: #000000;
+}
+.block_newsletter form input[type=text]:focus {
+  outline: 3px solid #000000;
+}
+.block_newsletter form input[type=text]:focus+button .search {
+  color: #000000;
+}
+.block_newsletter form button[type=submit] .search:hover {
+  color: #000000;
+}
+.block_newsletter form input[type=text]:focus {
+ border: 3px solid #000000;
+}
+.block-social li a span:hover:before {
+  color: #000000;
+}
+
+@media (max-width: 767px) {
+	#header .header-nav .user-info .logged {
+	  color: #000000;
+	}
+}
+.btn-primary {
+  color: #000000;
+}
+
+.btn-primary.disabled.focus,
+.btn-primary.disabled:focus,
+.btn-primary.disabled:hover,
+.btn-primary:disabled.focus,
+.btn-primary:disabled:focus,
+.btn-primary:disabled:hover {
+    background-color: #000000;
+}
+.btn-outline-primary {
+    color: #000000;
+    border-color: #000000;
+}
+.btn-outline-primary.active,
+.btn-outline-primary.focus,
+.btn-outline-primary:active,
+.btn-outline-primary:focus,
+.btn-outline-primary:hover,
+.open>.btn-outline-primary.dropdown-toggle {
+    background-color: #000000;
+    border-color: #000000;
+}
+.btn-link {
+  color: #000000;
+}
+.dropdown-item.active,
+.dropdown-item.active:focus,
+.dropdown-item.active:hover {
+  background-color: #000000;
+}
+.nav-pills .nav-item.open .nav-link,
+.nav-pills .nav-item.open .nav-link:focus,
+.nav-pills .nav-item.open .nav-link:hover,
+.nav-pills .nav-link.active,
+.nav-pills .nav-link.active:focus,
+.nav-pills .nav-link.active:hover {
+  background-color: #000000;
+}
+.card-primary {
+  background-color: #000000;
+  border-color: #000000;
+}
+.card-outline-primary {
+  border-color: #000000;
+}
+.page-item.active .page-link,
+.page-item.active .page-link:focus,
+.page-item.active .page-link:hover {
+  background-color: #000000;
+  border-color: #000000;
+}
+.tag-primary {
+  background-color: #000000;
+}
+.page-link {
+  color: #000000;
+}
+.bg-primary {
+    background-color: #000000!important
+}
+.text-primary {
+    color: #000000!important;
+}
+
+
+
+#products .product-title a,
+.featured-products .product-title a,
+.product-accessories .product-title a,
+.product-miniature .product-title a {
+  color: #000000;
+  font-size: 16px;
+}
+
+.page-product h1 {
+  font-size: 36px;
+}
+
+#products .product-price-and-shipping,
+.featured-products .product-price-and-shipping,
+.product-accessories .product-price-and-shipping,
+.product-miniature .product-price-and-shipping {
+  color: #000000;
+  font-size: 18px;
+}
+.current-price {
+  color: #000000;
+}
+.featured-products .regular-price,
+.product-accessories .regular-price,
+.product-miniature .regular-price {
+ color: #828282;
+ font-size: 16px;
+}
+#products .regular-price {
+  color: #828282;
+}
+.product-discount {
+ color: #828282;
+}
+
+
+
+
+#header {
+  background: #ffffff !important; 
+}
+
+.header-nav {
+  background: #f4f4f6 !important; 
+  font-size: 12px !important;  
+}
+@media (max-width: 767px) {
+    #header .header-top {
+        background: #f4f4f6; 
+    }
+}
+
+
+#_desktop_top_menu {
+  background: #ffffff !important; 
+  font-size: 14px !important;  
+}
+
+/* fixed-menu */
+@media (max-width: 1920px) and (min-width: 1200px) {
+  .fixed-menu {
+    z-index: 9;
+	background: rgba(0,0,0,0.4);
+    padding-top: 0px!important;
+    position: fixed !important;
+    top: 0;
+    left: 0;
+	width: 100%;
+  }
+  #top-menu {
+    margin-bottom: 0px !important;
+  }
+}
+
+#wrapper {
+  background: #ffffff;
+}
+
+.block_newsletter {
+  background: #f4f4f6;
+}
+
+.footer-container {
+  background: #f4f4f6;
+}
+
+.copyright-container {
+  background: #f4f4f6;
+}
+
+
+
+
+#nprogress {
+  pointer-events: none;
+}
+
+#nprogress .bar {
+  background: #000000;
+
+  position: fixed;
+  z-index: 1031;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 2px;
+}
+
+/* Fancy blur effect */
+#nprogress .peg {
+  display: block;
+  position: absolute;
+  right: 0px;
+  width: 100px;
+  height: 100%;
+  box-shadow: 0 0 10px #000000, 0 0 5px #000000;
+  opacity: 1.0;
+
+  -webkit-transform: rotate(3deg) translate(0px, -4px);
+      -ms-transform: rotate(3deg) translate(0px, -4px);
+          transform: rotate(3deg) translate(0px, -4px);
+}
+
+/* Remove these to get rid of the spinner */
+#nprogress .spinner {
+  display: block;
+  position: fixed;
+  z-index: 1031;
+  top: 15px;
+  right: 15px;
+}
+
+#nprogress .spinner-icon {
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+
+  border: solid 2px transparent;
+  border-top-color: #000000;
+  border-left-color: #000000;
+  border-radius: 50%;
+
+  -webkit-animation: nprogress-spinner 400ms linear infinite;
+          animation: nprogress-spinner 400ms linear infinite;
+}
+
+.nprogress-custom-parent {
+  overflow: hidden;
+  position: relative;
+}
+
+.nprogress-custom-parent #nprogress .spinner,
+.nprogress-custom-parent #nprogress .bar {
+  position: absolute;
+}
+
+@-webkit-keyframes nprogress-spinner {
+  0%   { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+@keyframes nprogress-spinner {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

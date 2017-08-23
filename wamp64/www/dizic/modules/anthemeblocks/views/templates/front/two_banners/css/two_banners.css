@@ -1,0 +1,127 @@
+#two-banners {
+    margin-top: 50px;
+	margin-bottom: 80px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+#two-banners .two-banners-block {
+	max-width: 544px;
+}
+
+@media (min-width: 992px){
+#two-banners .two-banners-block:first-child {
+    margin-right: 20px;
+}
+}
+
+@media (max-width: 991px){
+#two-banners .two-banners-block:first-child {
+    margin-bottom: 30px;
+}
+}
+
+#two-banners .two_block{
+    position: relative;
+}
+
+#two-banners .two_block .two_block_content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 15% 0 0 8%;
+}
+
+#two-banners .two_block .two_block_content span {
+    font-weight: 900;
+    font-size: 34px;
+    text-transform: uppercase;
+	display: inline-block;
+	width: 100%;
+}
+
+#two-banners .two_block .two_block_content p {
+    font-weight: 400;
+    font-size: 16px;
+    width: 67%;
+    color: #737373;
+    margin-top: 24px;
+    margin-bottom: 0;
+}
+
+#two-banners .two_block .two_block_content a {
+    font-weight: 700;
+    background: none;
+    font-size: 12px;
+    padding: 11px 43px 11px 43px;
+    border-radius: 5px;
+    margin-top: 46px;
+    display: inline-block;
+    webkit-transition: 0.3s ease-out;
+    -moz-transition: 0.3s ease-out;
+    -o-transition: 0.3s ease-out;
+    transition: 0.3s ease-out;
+}
+
+#two-banners .two_block .two_block_content a:hover {
+    color: #fff;
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	#two-banners .two-banners-block {
+    max-width: 445px;
+}
+#two-banners .two_block .two_block_content p {
+    font-size: 15px;
+}
+#two-banners .two_block .two_block_content a {
+    margin-top: 26px;
+}
+}
+
+@media (max-width: 520px){
+#two-banners .two_block .two_block_content {
+    padding: 14% 0 0 8%;
+}
+
+#two-banners .two_block .two_block_content span {
+    font-size: 27px;
+}
+#two-banners .two_block .two_block_content p {
+    display: none;
+}
+#two-banners .two_block .two_block_content a {
+    clear: left;
+}
+}
+
+
+/*---------------*/
+/***** Milo *****/
+/*---------------*/
+
+.two_block {
+	overflow: hidden;
+}
+
+.two_block img {
+	max-width: none;
+	width: 100%;
+	opacity: 1;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: translate3d(0,0,0) scale(1);
+	transform: translate3d(-0,0,0) scale(1);
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+.two_block:hover img {
+	opacity: 0.5;
+	-webkit-transform: translate3d(-30px,0,0) scale(1.12);
+	transform: translate3d(-30px,0,0) scale(1.12);
+}

@@ -1,0 +1,49 @@
+#advantages {
+    margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#advantages img {
+    float: left;
+    max-width: 55px;
+	
+}
+
+#advantages .advantage_wr {
+    padding-left: 75px;
+}
+
+#advantages .advantage_wr span {
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+	color: #000000;
+}
+
+#advantages .advantage_wr p {
+    font-weight: 400;
+    font-size: 14px;
+    color: #737373;
+    margin: 9px 0 0 0;
+}
+
+@media (max-width: 767px){
+#advantages {
+    margin-top: 30px;
+}
+}
+
+@media (min-width: 992px){
+#advantages > div img {
+	webkit-transition: 0.2s ease-out;
+    -moz-transition: 0.2s ease-out;
+    -o-transition: 0.2s ease-out;
+    transition: 0.2s ease-out;
+}
+#advantages > div:hover img {
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+}

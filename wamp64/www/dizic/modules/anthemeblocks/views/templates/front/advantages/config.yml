@@ -1,0 +1,12 @@
+name: Advantages
+description: 
+enabled_text: false
+required_text: true
+enabled_image: false
+enabled_link: false
+css:
+  -
+    path: views/templates/front/advantages/css/advantages.css
+    priority: 200
+    position: head
+    server: local  

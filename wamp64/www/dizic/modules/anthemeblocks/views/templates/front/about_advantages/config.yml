@@ -1,0 +1,7 @@
+name: About us and advantages
+description: 
+enabled_text: false
+required_text: false
+enabled_image: true
+css:
+  - views/templates/front/about_advantages/css/about_advantages.css  

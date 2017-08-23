@@ -1,0 +1,51 @@
+#banner-bottom {
+	margin-top: 60px;
+}
+
+
+/***** Apollo *****/
+
+
+#banner-bottom .block {
+	position: relative;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+#banner-bottom  img {
+	position: relative;
+	display: block;
+}
+
+#banner-bottom  img {
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale3d(1,1,1);
+	transform: scale3d(1,1,1);
+}
+
+#banner-bottom  .figcaption:before {
+	position: absolute;
+	top: 0;
+	left: 0px;
+	width: 110%;
+	height: 110%;
+	background: rgba(255,255,255,0.5);
+	content: '';
+	-webkit-transition: -webkit-transform 0.4s;
+	transition: transform 0.3s;
+	-webkit-transform: scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,-133%,0);
+	transform: scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,-133%,0);
+}
+
+#banner-bottom .block:hover img {
+	opacity: 0.6;
+
+}
+
+#banner-bottom .block:hover .figcaption:before {
+	-webkit-transform: scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,139%,0);
+	transform: scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,139%,0);
+}
+
+/***** Apollo-END *****/

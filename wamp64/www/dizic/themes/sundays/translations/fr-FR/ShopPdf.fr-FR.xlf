@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/admin/www/themes03.applynovation.com/150/themes/theme1_1/3jwo6nmslr943ldf" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="1d744a9ad1dac20645cfc4a36b77323b">
+        <source>image(s)</source>
+        <target>image(s) :</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/150/themes/theme1_1/3jwo6nmslr943ldf:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

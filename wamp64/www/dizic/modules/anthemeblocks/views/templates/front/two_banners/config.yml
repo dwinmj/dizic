@@ -1,0 +1,8 @@
+name: Two banners
+description: 
+enabled_text: false
+required_text: true
+enabled_image: false
+enabled_link: false
+css:
+  - views/templates/front/two_banners/css/two_banners.css

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_themeliveeditor/views/templates/admin/_configure/helpers/form/form.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="1cc53a5a2945038547f84ae43548158b">
+        <source>Reset this</source>
+        <target>Reset this</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_themeliveeditor/views/templates/admin/_configure/helpers/form/form.tpl:129</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/front/homeslider/item.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="bff59c310e5dbc40ad00567a3cf8d103">
+        <source>Shop now</source>
+        <target>Shop now</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/front/homeslider/item.tpl:11</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/front/bannersection/item.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="d59048f21fd887ad520398ce677be586">
+        <source>Learn more</source>
+        <target>Learn more</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/front/bannersection/item.tpl:5</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/theme_blocks/helpers/list/list_content.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="00d23a76e43b46dae9ec7aa9dcbebb32">
+        <source>Enabled</source>
+        <target>Enabled</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/theme_blocks/helpers/list/list_content.tpl:69</note>
+      </trans-unit>
+      <trans-unit id="b9f5c797ebbf55adccdd8539a65a0241">
+        <source>Disabled</source>
+        <target>Disabled</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/theme_blocks/helpers/list/list_content.tpl:71</note>
+      </trans-unit>
+      <trans-unit id="0bcef9c45bd8a48eda1b26eb0c61c869">
+        <source>%</source>
+        <target>%</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/theme_blocks/helpers/list/list_content.tpl:108</note>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Yes</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/theme_blocks/helpers/list/list_content.tpl:111</note>
+      </trans-unit>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>No</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/theme_blocks/helpers/list/list_content.tpl:113</note>
+      </trans-unit>
+      <trans-unit id="087fb8756d4add87f2d162304ccd486b">
+        <source>No records found</source>
+        <target>No records found</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/theme_blocks/helpers/list/list_content.tpl:223</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/step_one.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="29e1e888fce0d09d0800ec8bb740825d">
+        <source>Step one</source>
+        <target>Step one</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/step_one.tpl:26</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/configure.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="d7b9e945efabe41dca5282da391b0f9e">
+        <source>Content required</source>
+        <target>Content required</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/configure.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="278c491bdd8a53618c149c4ac790da34">
+        <source>Template</source>
+        <target>Template</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/configure.tpl:67</note>
+      </trans-unit>
+      <trans-unit id="b0a752b42fffd68be1d505fe21e8099a">
+        <source>Can not preview template</source>
+        <target>Can not preview template</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anthemeblocks/views/templates/admin/configure.tpl:83</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/hook/slider.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="c70ad5f80e4c6f299013e08cabc980df">
+        <source>More about %s</source>
+        <target>More about %s</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/hook/slider.tpl:32</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/admin/_configure/helpers/form/form.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="17a1352d3f69a733fd472fce0238a07d">
+        <source>Indicate the ID number for the product</source>
+        <target>Indicate the ID number for the product</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/admin/_configure/helpers/form/form.tpl:56</note>
+      </trans-unit>
+      <trans-unit id="6bb999afde6fca60d70edce79d20b370">
+        <source>Product ID #</source>
+        <target>Product ID #</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/admin/_configure/helpers/form/form.tpl:59</note>
+      </trans-unit>
+      <trans-unit id="3ee3549ff0c93372a730749f784e9438">
+        <source>Please select just one item</source>
+        <target>Please select just one item</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/admin/_configure/helpers/form/form.tpl:100</note>
+      </trans-unit>
+      <trans-unit id="e1b11c03820641dd1d1441bf68898d08">
+        <source>Change position</source>
+        <target>Change position</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/admin/_configure/helpers/form/form.tpl:117</note>
+      </trans-unit>
+      <trans-unit id="3713a99a6284e39061bd48069807aa52">
+        <source>Selected items</source>
+        <target>Selected items</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/admin/_configure/helpers/form/form.tpl:122</note>
+      </trans-unit>
+      <trans-unit id="8fb31b552d63ffef9df733646a195bc0">
+        <source>Available items</source>
+        <target>Available items</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/admin/_configure/helpers/form/form.tpl:126</note>
+      </trans-unit>
+      <trans-unit id="1063e38cb53d94d386f21227fcd84717">
+        <source>Remove</source>
+        <target>Remove</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/an_brandslider/views/templates/admin/_configure/helpers/form/form.tpl:134</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="ec211f7c20af43e742bf2570c3cb84f9">
+        <source>Add</source>
+        <target>Add</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl:163</note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl:35</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl:44</note>
+      </trans-unit>
+      <trans-unit id="54985daa1f6154394974f71f3199e000">
+        <source>Tabs list</source>
+        <target>Tabs list</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl:160</note>
+      </trans-unit>
+      <trans-unit id="06933067aafd48425d67bcb01bba5cb6">
+        <source>Update</source>
+        <target>Update</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl:168</note>
+      </trans-unit>
+      <trans-unit id="543a5e0a65f420dd860335f2311a1d81">
+        <source>Tab ID</source>
+        <target>Tab ID</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl:195</note>
+      </trans-unit>
+      <trans-unit id="8e753068ca410f0f695f0dd52a975c20">
+        <source>Tab name</source>
+        <target>Tab name</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl:196</note>
+      </trans-unit>
+      <trans-unit id="669b280abfe6138e2fc8570479d0a692">
+        <source>Tab Position</source>
+        <target>Tab Position</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl:197</note>
+      </trans-unit>
+      <trans-unit id="2ce85c9415e28a74bff2abaf5ad2283c">
+        <source>Are you ready to create your first tab?</source>
+        <target>Are you ready to create your first tab?</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/tab_list.tpl:188</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/hook/1.7/product_tab_header.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="554cfab3938e21d9270bd6b75931f96f">
+        <source>Videos</source>
+        <target>Videos</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/hook/1.7/product_tab_header.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/hook/1.6/view_type_grid.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="34e2d1989a1dbf75cd631596133ee5ee">
+        <source>Video</source>
+        <target>Video</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/hook/1.6/view_type_grid.tpl:26</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_edit_form.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="731eb045572cea0daac5371750ceb079">
+        <source>To view this video please enable JavaScript, and consider upgrading to a web browser that</source>
+        <target>To view this video please enable JavaScript, and consider upgrading to a web browser that</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_edit_form.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="242de5611db2f7a08731fc1792ba9b63">
+        <source>supports HTML5 video</source>
+        <target>supports HTML5 video</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_edit_form.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="6bc362dbf494c61ea117fe3c71ca48a5">
+        <source>Move</source>
+        <target>Move</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_edit_form.tpl:76</note>
+      </trans-unit>
+      <trans-unit id="4aaf6f6527059065878a4e16031459a7">
+        <source>Remove video</source>
+        <target>Remove video</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_edit_form.tpl:79</note>
+      </trans-unit>
+      <trans-unit id="b4a0a481296b4460483d747e45be0730">
+        <source>Update title and description</source>
+        <target>Update title and description</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_edit_form.tpl:82</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="be42c759c49a8aa51d22c9286510b53e">
+        <source>Add video</source>
+        <target>Add video</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab.tpl:49</note>
+      </trans-unit>
+      <trans-unit id="ea4788705e6873b424c65e91c2846b19">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab.tpl:48</note>
+      </trans-unit>
+      <trans-unit id="efceb0ee623ef85575946c037e5f4ce6">
+        <source>Video list</source>
+        <target>Video list</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab.tpl:54</note>
+      </trans-unit>
+      <trans-unit id="3da4448b545085e6afb9575909355dd4">
+        <source>No videos</source>
+        <target>No videos</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab.tpl:61</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="7164136c05c14315c0e934bec6ec54df">
+        <source><![CDATA[Enter link to video(Youtube, Vimeo or select local) hrere. Invalid characters <>;=#]]></source>
+        <target><![CDATA[Enter link to video(Youtube, Vimeo or select local) hrere. Invalid characters <>;=#]]></target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="4c3a232f31093d2fbfa7e6f099b5ffff">
+        <source>Video Link/Path</source>
+        <target>Video Link/Path</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="850373233235a1dcb7f2521a591e40dc">
+        <source><![CDATA[Add cover image (local video only). Invalid characters <>;=#]]></source>
+        <target><![CDATA[Add cover image (local video only). Invalid characters <>;=#]]></target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl:40</note>
+      </trans-unit>
+      <trans-unit id="84967207ddc311cfbe8ee66f677a1544">
+        <source>Cover image</source>
+        <target>Cover image</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl:40</note>
+      </trans-unit>
+      <trans-unit id="df19cdaaf00bc5e95d70dc8379cb31fb">
+        <source>Not available using a video from YouTube or Vimeo</source>
+        <target>Not available using a video from YouTube or Vimeo</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl:48</note>
+      </trans-unit>
+      <trans-unit id="336e35825050c5efef7ef5c571f46721">
+        <source><![CDATA[Enter heading to video. Invalid characters <>;=#]]></source>
+        <target><![CDATA[Enter heading to video. Invalid characters <>;=#]]></target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl:54</note>
+      </trans-unit>
+      <trans-unit id="53d56631138f8993a81069e5f6911729">
+        <source>Video Heading</source>
+        <target>Video Heading</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl:55</note>
+      </trans-unit>
+      <trans-unit id="a0ef73a7aaed7c4465f3eb83d269ac39">
+        <source>Videos description.</source>
+        <target>Videos description.</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl:80</note>
+      </trans-unit>
+      <trans-unit id="bb2024911579955305ad85ae37335697">
+        <source>Videos description</source>
+        <target>Videos description</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductvideos/views/templates/admin/1.7/product_tab_add_form.tpl:81</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anscrolltop/views/templates/admin/configure.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="31fde7b05ac8952dacf4af8a704074ec">
+        <source>Preview</source>
+        <target>Preview</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anscrolltop/views/templates/admin/configure.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/product_tab_header.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="bb7b13253abe776d8c40f1e5c4d4068f">
+        <source>Tab content</source>
+        <target>Tab content</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/product_tab_header.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/form.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="2da9b93934e51331be3c8ccf3428e001">
+        <source>Edit tab</source>
+        <target>Edit tab</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/form.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/210/themes/theme1_1/themes/poppins/dependencies/modules/anproductextratabs/views/templates/admin/1.7/form.tpl:105</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

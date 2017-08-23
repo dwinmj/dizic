@@ -1,0 +1,110 @@
+.anthemeblocks-homeslider {
+  margin-bottom: 25px;
+}
+.anthemeblocks-homeslider-desc {
+  position: absolute;
+  top: 31%;
+  left: 9%;
+  max-width: 72%;
+}
+
+.anthemeblocks-homeslider-desc p {
+  color: #737373;
+  font-size: 18px;
+  margin-left: 4px;
+}
+
+.anthemeblocks-homeslider-desc p {
+  color: #737373;
+  font-size: 18px;
+  margin-left: 4px;
+}
+
+.anthemeblocks-homeslider-desc .btn.btn-primary {
+  margin-top: 27px;
+  margin-left: 4px;
+  line-height: 24px;
+}
+
+.anthemeblocks-homeslider-desc .btn.btn-primary {
+    font-weight: 700;
+    background: none;
+    font-size: 12px;
+    padding: 11px 43px 11px 43px;
+    border-radius: 5px;
+    margin-top: 46px;
+    display: inline-block;
+    webkit-transition: 0.3s ease-out;
+    -moz-transition: 0.3s ease-out;
+    -o-transition: 0.3s ease-out;
+    transition: 0.3s ease-out;
+}
+
+.anthemeblocks-homeslider-desc .btn.btn-primary:hover {
+    color: #fff;
+    background: #000;
+}
+
+.anthemeblocks-homeslider .owl-prev,
+.anthemeblocks-homeslider .owl-next {
+  position: absolute;
+  top: calc(50% - 15px);
+  z-index: 2;
+  cursor: pointer;
+}
+.anthemeblocks-homeslider .owl-prev i,
+.anthemeblocks-homeslider .owl-next i {
+  font-size: 30px;
+}
+.anthemeblocks-homeslider .owl-prev {
+  left: 10px;
+}
+.anthemeblocks-homeslider .owl-next {
+  right: 10px;
+}
+.anthemeblocks-homeslider .owl-dots {
+  text-align: center;
+  -webkit-tap-highlight-color: transparent;
+  transform: translate3d(-50%,0,0);
+  -webkit-transform: translate3d(-50%,0,0);
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+}
+.anthemeblocks-homeslider .owl-dots .owl-dot {
+ display: inline-block;
+ zoom: 1;
+ *display: inline;
+}
+.anthemeblocks-homeslider .owl-dots .owl-dot span {
+  width: 10px;
+  height: 10px;
+  margin: 5px 7px;
+  background: #D6D6D6;
+  display: block;
+  -webkit-backface-visibility: visible;
+  transition: opacity 200ms ease;
+  border-radius: 30px; }
+.anthemeblocks-homeslider .owl-dots .owl-dot.active span,
+.anthemeblocks-homeslider .owl-dots .owl-dot:hover span {
+  background: #869791;
+}
+
+.anthemeblocks-homeslider-desc span {
+	display: block;
+	font-size: 46px;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin-bottom: 21px;
+    display: block;
+}
+
+@media (max-width: 1199px) {
+.anthemeblocks-homeslider-desc span {
+	font-size: 36px;
+}
+.anthemeblocks-homeslider-desc .btn.btn-primary {
+    margin-top: 30px;
+}
+}
+

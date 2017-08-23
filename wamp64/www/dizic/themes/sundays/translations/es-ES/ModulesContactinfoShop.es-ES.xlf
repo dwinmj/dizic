@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/admin/www/themes03.applynovation.com/150/themes/theme1_1/3jwo6nmslr943ldf" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="c6359db4a43cb7267a84b389229fd073">
+        <source>Call us: [1]%phone%[/1]</source>
+        <target>Llámenos: [1]%phone%[/1]</target>
+        <note>Context:
+File: /var/www/admin/www/themes03.applynovation.com/150/themes/theme1_1/3jwo6nmslr943ldf:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

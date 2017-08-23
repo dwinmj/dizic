@@ -1,0 +1,5 @@
+name: Banner
+description: 
+enabled_text: false
+css:
+  - views/templates/front/banner/css/banner.css
