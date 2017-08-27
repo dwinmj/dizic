@@ -193,14 +193,18 @@
                    {if $product.attachments}
                     <div class="tab-pane fade in" id="attachments">
                        <section class="product-attachments">
-                         <h3 class="h5 text-uppercase">{l s='Download' d='Shop.Theme.Actions'}</h3>
+                         <h3 class="text-uppercase">{l s='Download' d='Shop.Theme.Actions'}</h3>
                          {foreach from=$product.attachments item=attachment}
                            <div class="attachment">
-                             <h4><a href="{url entity='attachment' params=['id_attachment' => $attachment.id_attachment]}">{$attachment.name}</a></h4>
-                             <p>{$attachment.description}</p
-                             <a href="{url entity='attachment' params=['id_attachment' => $attachment.id_attachment]}">
-                               {l s='Download' d='Shop.Theme.Actions'} ({$attachment.file_size_formatted})
-                             </a>
+                               <h4><a href="{url entity='attachment' params=['id_attachment' => $attachment.id_attachment]}">{$attachment.name}</a></h4>
+                               {if $attachment.description}
+                                   <p>{$attachment.description}</p>
+                               {/if}
+                             <p>
+                                <a href="{url entity='attachment' params=['id_attachment' => $attachment.id_attachment]}">
+                                    {l s='Download' d='Shop.Theme.Actions'} ({$attachment.file_size_formatted})
+                                </a>
+                             </p>
                            </div>
                          {/foreach}
                        </section>

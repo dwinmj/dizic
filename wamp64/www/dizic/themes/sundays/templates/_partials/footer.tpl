@@ -34,6 +34,17 @@
 <div class="footer-container">
   <div class="container">
     <div class="row">
+        <div class="col-md-4">
+            <p><img src="{$urls.img_ps_url}dizic-logo-footer.png" alt="logo dizic" title="logo dizic" /></p>
+            <div class="col-xs-12">
+                <div>2F., No.240, Minsheng W. Rd.</div>
+                <div>Taipei City, TAIWAN</div>
+                <div>10356</div>
+                <div>Phone: +886-2-2550-2372</div>
+                <div>Fax: +886-2-2511-3822</div>
+                <div><a class="underline" href="mailto:sales.asia@dizic.com" title="sales.asia@dizic.com">sales.asia@dizic.com</a></div>
+            </div>
+        </div>
       {block name='hook_footer'}
         {hook h='displayFooter'}
       {/block}
@@ -52,7 +63,7 @@
       <div class="col-sm-12">
         <p>
           <a class="_blank" href="http://www.prestashop.com" target="_blank">
-            {l s='%copyright% %year% - Ecommerce software by %prestashop%' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme'}
+            {l s='Copyright%copyright% %year% - Ecommerce software by %prestashop%' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme'}
           </a>
         </p>
       </div>

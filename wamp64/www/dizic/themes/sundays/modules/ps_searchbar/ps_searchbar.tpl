@@ -23,7 +23,7 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 <!-- Block search module TOP -->
-<div id="search_widget" class="col-lg-4 col-md-4 col-sm-12 search-widget" data-search-controller-url="{$search_controller_url}">
+<div id="search_widget" class="col-lg-3 col-md-3 col-sm-12 search-widget" data-search-controller-url="{$search_controller_url}">
 <span class="search_icon_hov"></span>
 	<form method="get" action="{$search_controller_url}">
 		<input type="hidden" name="controller" value="search">

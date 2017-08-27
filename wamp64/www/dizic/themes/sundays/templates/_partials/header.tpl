@@ -62,7 +62,7 @@
 	   {if Module::isEnabled('an_theme') && Module::getInstanceByName('an_theme')->getParam('header_logoMiddle') == '1'}
         <div class="col-md-12 hidden-sm-down" id="_desktop_logo">
 	   {else}
-		<div class="col-md-3 hidden-sm-down" id="_desktop_logo">
+		<div class="col-md-2 hidden-sm-down" id="_desktop_logo">
 	   {/if}
           <a href="{$urls.base_url}">
             <img class="logo img-responsive" src="{$shop.logo}" alt="{$shop.name}">
@@ -71,7 +71,7 @@
 		{if Module::isEnabled('an_theme') && Module::getInstanceByName('an_theme')->getParam('header_logoMiddle') == '1'}
 		<div class="col-md-12 col-sm-12 position-static">
 		{else}
-		<div class="col-md-9 col-sm-12 position-static">
+		<div class="col-md-10 col-sm-12 position-static">
 		{/if}
           <div class="row">
             {hook h='displayTop'}

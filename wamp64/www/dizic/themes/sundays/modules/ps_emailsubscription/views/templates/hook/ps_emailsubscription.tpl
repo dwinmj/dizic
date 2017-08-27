@@ -23,49 +23,41 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 
-<div class="block_newsletter col-lg-12 col-md-12 col-sm-12">
-  <div class="row">
-    <p class="newsl_label col-xs-12">{l s='Get our latest news and special sales' d='Shop.Theme'}</p>
+<div class="block_newsletter">
+    {*  <div class="row">*}
+    <div class="{*newsl_label*}font-weight-bold col-xs-12">{l s='Get our latest news and special sales' d='Shop.Theme'}</div>
     <div class="col-xs-12 win_for_ent">
-      <form action="{$urls.pages.index}#footer" method="post">
-        <div class="row">
-          <div class="col-xs-12">
+        {*{if $conditions}
+        <p>{$conditions}</p>
+        {/if}*}
+        {if $msg}
+            <p class="alert {if $nw_error}alert-danger{else}alert-success{/if}">
+                {$msg}
+            </p>
+        {/if}
+        <form action="{$urls.pages.index}#footer" method="post">
             <input
-              class="btn btn-primary pull-xs-right hidden-xs-down"
-              name="submitNewsletter"
-              type="submit"
-              value="{l s='Subscribe' d='Shop.Theme.Actions'}"
-            >
-            <input
-              class="btn btn-primary pull-xs-right hidden-sm-up"
-              name="submitNewsletter"
-              type="submit"
-              value="{l s='OK' d='Shop.Theme.Actions'}"
-            >
-            <div class="input-wrapper">
-              <input
                 name="email"
                 type="text"
                 value="{$value}"
                 placeholder="{l s='Your email address' d='Shop.Forms.Labels'}"
-              >
-            </div>
+                >
+            <input
+                class="btn btn-primary btn-subscribe pull-xs-right hidden-xs-down"
+                name="submitNewsletter"
+                type="submit"
+                value="{l s='Subscribe' d='Shop.Theme.Actions'}"
+                >
+            <input
+                class="btn btn-primary pull-xs-right hidden-sm-up"
+                name="submitNewsletter"
+                type="submit"
+                value="{l s='OK' d='Shop.Theme.Actions'}"
+                >
             <input type="hidden" name="action" value="0">
             <div class="clearfix"></div>
-          </div>
-          <div class="col-xs-12">
-              {if $conditions}
-                <p>{$conditions}</p>
-              {/if}
-              {if $msg}
-                <p class="alert {if $nw_error}alert-danger{else}alert-success{/if}">
-                  {$msg}
-                </p>
-              {/if}
-          </div>
-        </div>
-      </form>
+        </form>
     </div>
-	<div class="block_newsletter_line col-lg-12 col-md-12 col-sm-12"><div></div></div>
-  </div>
+    {*	<div class="block_newsletter_line col-lg-12 col-md-12 col-sm-12"><div></div></div>*}
+    {*  </div>*}
 </div>

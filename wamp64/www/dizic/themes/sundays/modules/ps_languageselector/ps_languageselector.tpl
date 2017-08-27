@@ -23,7 +23,7 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 <div id="_desktop_language_selector">
-  <div class="language-selector-wrapper">
+  <div class="language-selector-wrapper col-xs-12">
     {*<span class="hidden-md-up">{l s='Language:' d='Shop.Theme'}</span>*}
     <div class="language-selector dropdown js-dropdown">
       <span class="expand-more hidden-sm-down" data-toggle="dropdown">{$current_language.name_simple}</span>

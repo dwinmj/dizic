@@ -1,5 +1,6 @@
 {assign var=_counter value=0}
 {function name="menu" nodes=[] depth=0 parent=null}
+{*    {$nodes|@var_dump}*}
     {if $nodes|count}
       <ul class="top-menu" {if $depth == 0}id="top-menu"{/if} data-depth="{$depth}">
         {foreach from=$nodes item=node}
@@ -33,7 +34,7 @@
     {/if}
 {/function}
 
-<div class="menu col-lg-8 col-md-8 js-top-menu position-static hidden-sm-down" id="_desktop_top_menu">
+<div class="menu col-lg-7 col-md-8 js-top-menu position-static hidden-sm-down" id="_desktop_top_menu">
     {menu nodes=$menu.children}
     <div class="clearfix"></div>
 </div>
