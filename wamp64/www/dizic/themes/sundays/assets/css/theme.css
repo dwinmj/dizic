@@ -1,6 +1,12 @@
 .underline {
     text-decoration: underline;
 }
+.margin-top-20 {
+    margin-top: 20px;
+}
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
 .bootstrap-touchspin .input-group-btn-vertical {
     position: relative;
     white-space: nowrap;
@@ -5663,7 +5669,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-ul {
+.menu ul, .footer-container ul, .block-categories ul {
     list-style: none;
     padding-left: 0
 }
@@ -6294,7 +6300,7 @@ padding-top: 3px;	}
 
 .top-menu a[data-depth="1"]{
 	padding-top: 10px;
-	padding-bottom: 15px;
+	/*padding-bottom: 15px;*/
 }
 
 .top-menu .sub-menu a:hover {
@@ -9575,6 +9581,8 @@ li.product-flag.on-sale {
     height: 43px;
     margin-top: 10px;
     width: 100%;
+    color: #fff;
+    border-color: #fff !important;
 }
 .block-contact {
     padding-left: 58px;
@@ -9642,7 +9650,7 @@ li.product-flag.on-sale {
     color: #414141
 }
 #footer, .footer-container, .block_newsletter {
-    background: #1a46ad !important;
+    background: #1C2D49 !important;
 }
 .footer-container {
     overflow: hidden;
@@ -9989,9 +9997,10 @@ li.product-flag.on-sale {
 /*     box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, .15) */
 }
 #wrapper .breadcrumb {
-	background: #1a46ad;
+    background: #1C2D49;
     padding: 0 0 0 37px;
     color: #fff;
+    border-top: 4px solid #bebebe;
 }
 #wrapper .breadcrumb[data-depth="1"] {
     display: none
@@ -10017,10 +10026,11 @@ li.product-flag.on-sale {
     content: ""
 }
 #wrapper .breadcrumb li a {
-	color: #000;
+    color: #fff;
     font-size: 14px;
     font-weight: 400;
-    line-height: 52px;
+    line-height: 75px;
+    
 }
 #wrapper .breadcrumb li:last-child a {
     color: #fff;
@@ -10228,7 +10238,7 @@ li.product-flag.on-sale {
 }
 
 .language-selector .dropdown-menu a:hover, .language-selector .dropdown-menu .current a, .currency-selector .dropdown-menu a:hover, .currency-selector .dropdown-menu .current a {
-    background: #1a46ad;
+    background: #1C2D49;
     color: #fff;
 }
 
@@ -10237,7 +10247,7 @@ li.product-flag.on-sale {
     font-weight: 700;
     text-transform: uppercase;
     line-height: 30px;
-    color: #1a46ad;
+    color: #1C2D49;
 }
 
 #_desktop_cart .blockcart {

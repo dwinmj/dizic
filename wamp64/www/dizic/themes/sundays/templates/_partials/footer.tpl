@@ -34,7 +34,7 @@
 <div class="footer-container">
   <div class="container">
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-3">
             <p><img src="{$urls.img_ps_url}dizic-logo-footer.png" alt="logo dizic" title="logo dizic" /></p>
             <div class="col-xs-12">
                 <div>2F., No.240, Minsheng W. Rd.</div>
@@ -52,24 +52,11 @@
       {block name='hook_footer_after'}
         {hook h='displayFooterAfter'}
       {/block}
+      <div class="col-xs-12 margin-top-20">
+            {l s='Copyright%copyright% %year% - DiZiC' sprintf=['%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme'}
+      </div>
     </div>
     </div>
 
-  </div>
-</div>
-<div class="copyright-container">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <p>
-          <a class="_blank" href="http://www.prestashop.com" target="_blank">
-            {l s='Copyright%copyright% %year% - Ecommerce software by %prestashop%' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme'}
-          </a>
-        </p>
-      </div>
-    <div class="col-md-6">
-      {hook h='displayCopyrightContainer'}
-    </div>
-    </div>
   </div>
 </div>

@@ -23,7 +23,7 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 
-<div class="block_newsletter">
+<div class="block_newsletter col-xs-12">
     {*  <div class="row">*}
     <div class="{*newsl_label*}font-weight-bold col-xs-12">{l s='Get our latest news and special sales' d='Shop.Theme'}</div>
     <div class="col-xs-12 win_for_ent">

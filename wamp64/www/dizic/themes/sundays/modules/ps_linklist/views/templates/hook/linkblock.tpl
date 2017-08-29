@@ -1,4 +1,4 @@
-<div class="col-md-4 links">
+<div class="col-md-5 links">
   <div class="row">
   {foreach $linkBlocks as $linkBlock}
     <div class="col-lg-6 wrapper">

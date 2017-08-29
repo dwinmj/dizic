@@ -24,8 +24,8 @@
  *}
 <nav data-depth="{$breadcrumb.count}" class="breadcrumb hidden-sm-down">
   <ol itemscope itemtype="http://schema.org/BreadcrumbList">
-      {assign var=path value=end($breadcrumb.links)}
-{*    {foreach from=$breadcrumb.links item=path name=breadcrumb}*}
+{*      {assign var=path value=end($breadcrumb.links)}*}
+    {foreach from=$breadcrumb.links item=path name=breadcrumb}
       {block name='breadcrumb_item'}
         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
           <a itemprop="item" href="{$path.url}">
@@ -34,6 +34,6 @@
           <meta itemprop="position" content="{$smarty.foreach.breadcrumb.iteration}">
         </li>
       {/block}
-{*    {/foreach}*}
+    {/foreach}
   </ol>
 </nav>
