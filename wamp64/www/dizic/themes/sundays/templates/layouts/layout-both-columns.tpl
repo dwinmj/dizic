@@ -53,10 +53,10 @@
       {/block}
 
       <section id="wrapper">
-        <div class="container">
           {block name='breadcrumb'}
             {include file='_partials/breadcrumb.tpl'}
           {/block}
+        <div class="container">
           {block name="left_column"}
 		  
             <div id="left-column" class="col-xs-12 col-sm-4 col-md-3">

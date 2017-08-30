@@ -9671,7 +9671,7 @@ li.product-flag.on-sale {
     color: #fff;
 }
 .footer-container .social-sharing a{
-    background: #1a46ad;
+    background: #1C2D49;
     font-size: 2rem;
 }
 
@@ -9996,8 +9996,19 @@ li.product-flag.on-sale {
 #wrapper .banner img {
 /*     box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, .15) */
 }
+/*#wrapper .breadcrumb::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -9999px;
+    right: 0;
+    border-left: 9999px solid #1C2D49;
+    box-shadow: 9999px 0 0 #1C2D49;
+}*/
 #wrapper .breadcrumb {
     background: #1C2D49;
+    width: 100%;
     padding: 0 0 0 37px;
     color: #fff;
     border-top: 4px solid #bebebe;
