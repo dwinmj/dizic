@@ -334,10 +334,10 @@ class AdminModelAdapter extends \PrestaShopBundle\Model\AdminModelAdapter
                 if ($dataFeature['custom_value'][$this->defaultLocale]) {
                     foreach ($this->locales as $locale) {
                         $form_data['feature_'.$idFeature.'_value'] = null;
-                        $form_data['custom_'.$idFeature.'_'.$locale['id_lang']] = $dataFeature['custom_value'][$locale['id_lang']];
+                        $form_data['custom_'.$idFeature.'_'.$locale['id_lang']] = htmlspecialchars($dataFeature['custom_value'][$locale['id_lang']]);
                     }
                 } elseif ($dataFeature['value']) {
-                    $form_data['feature_'.$idFeature.'_value'] = $dataFeature['value'];
+                    $form_data['feature_'.$idFeature.'_value'] = htmlspecialchars($dataFeature['value']);
                 }
             }
         }
@@ -718,7 +718,7 @@ class AdminModelAdapter extends \PrestaShopBundle\Model\AdminModelAdapter
             if ($dataFeature['custom'] == 1) {
                 $customLangs = [];
                 foreach ($this->featureAdapter->getFeatureValueLang($dataFeature['id_feature_value']) as $customValues) {
-                    $customLangs[$customValues['id_lang']] = $customValues['value'];
+                    $customLangs[$customValues['id_lang']] = htmlspecialchars($customValues['value']);
                 }
                 $itemForm['custom_value'] = $customLangs;
             }

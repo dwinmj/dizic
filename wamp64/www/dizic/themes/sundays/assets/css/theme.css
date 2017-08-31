@@ -9650,7 +9650,7 @@ li.product-flag.on-sale {
     color: #414141
 }
 #footer, .footer-container, .block_newsletter {
-    background: #1C2D49 !important;
+    background: #0843CB !important;
 }
 .footer-container {
     overflow: hidden;
@@ -9671,7 +9671,7 @@ li.product-flag.on-sale {
     color: #fff;
 }
 .footer-container .social-sharing a{
-    background: #1C2D49;
+    background: #0843CB;
     font-size: 2rem;
 }
 
@@ -10003,11 +10003,11 @@ li.product-flag.on-sale {
     bottom: 0;
     left: -9999px;
     right: 0;
-    border-left: 9999px solid #1C2D49;
-    box-shadow: 9999px 0 0 #1C2D49;
+    border-left: 9999px solid #0843CB;
+    box-shadow: 9999px 0 0 #0843CB;
 }*/
 #wrapper .breadcrumb {
-    background: #1C2D49;
+    background: #0843CB;
     width: 100%;
     padding: 0 0 0 37px;
     color: #fff;
@@ -10249,7 +10249,7 @@ li.product-flag.on-sale {
 }
 
 .language-selector .dropdown-menu a:hover, .language-selector .dropdown-menu .current a, .currency-selector .dropdown-menu a:hover, .currency-selector .dropdown-menu .current a {
-    background: #1C2D49;
+    background: #0843CB;
     color: #fff;
 }
 
@@ -10258,7 +10258,7 @@ li.product-flag.on-sale {
     font-weight: 700;
     text-transform: uppercase;
     line-height: 30px;
-    color: #1C2D49;
+    color: #0843CB;
 }
 
 #_desktop_cart .blockcart {

@@ -203,6 +203,9 @@ class FeatureValueCore extends ObjectModel
      */
     public function add($autoDate = true, $nullValues = false)
     {
+        foreach ($this->value as $key => $value) {
+            $this->value[$key] = htmlspecialchars($value);
+        }
         $return = parent::add($autoDate, $nullValues);
         if ($return) {
             Hook::exec('actionFeatureValueSave', array('id_feature_value' => $this->id));
@@ -222,6 +225,9 @@ class FeatureValueCore extends ObjectModel
      */
     public function update($nullValues = false)
     {
+        foreach ($this->value as $key => $value) {
+            $this->value[$key] = htmlspecialchars($value);
+        }
         $return = parent::update($nullValues);
         if ($return) {
             Hook::exec('actionFeatureValueSave', array('id_feature_value' => $this->id));
